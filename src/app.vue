@@ -16,7 +16,7 @@
     import APP_Footer from './todo/footer.jsx';
 
     // 引入todo.vue组件
-    import APP_Todo from './todo/self/todo.vue';
+    import APP_Todo from './todo/todo.vue';
 
     export default {
         // 声明组件，之后便可以使用组件标签
